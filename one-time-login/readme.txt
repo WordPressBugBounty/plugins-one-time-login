@@ -2,7 +2,7 @@
 Contributors: danielbachhuber, aaronjorbin, acali, gdespoulain
 Tags: login
 Requires at least: 4.4
-Tested up to: 6.3
+Tested up to: 6.9
 Stable tag: 0.4.0
 Requires PHP: 7.1
 License: GPLv2 or later
